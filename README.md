@@ -1,7 +1,7 @@
 ![UI for Apache Kafka logo](documentation/images/kafka-ui-logo.png) UI for Apache Kafka&nbsp;
 ------------------
 #### Versatile, fast and lightweight web UI for managing Apache Kafka® clusters. Built by developers, for developers.
-
+v
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/provectus/kafka-ui/blob/master/LICENSE)
 ![UI for Apache Kafka Price Free](documentation/images/free-open-source.svg)
 [![Release version](https://img.shields.io/github/v/release/provectus/kafka-ui)](https://github.com/provectus/kafka-ui/releases)
