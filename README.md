@@ -6,6 +6,7 @@
 ![UI for Apache Kafka Price Free](documentation/images/free-open-source.svg)
 [![Release version](https://img.shields.io/github/v/release/provectus/kafka-ui)](https://github.com/provectus/kafka-ui/releases)
 [![Chat with us](https://img.shields.io/discord/897805035122077716)](https://discord.gg/4DWzD7pGE5)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaarolean%2Fkafka-ui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaarolean%2Fkafka-ui?ref=badge_shield)
 
 ### DISCLAIMER
 <em>UI for Apache Kafka is a free tool built and supported by the open-source community. Curated by Provectus, it will remain free and open-source, without any paid features or subscription plans to be added in the future.
@@ -212,3 +213,7 @@ For example, if you want to use an environment variable to set the `name` parame
 |`TOPIC_RECREATE_DELAY_SECONDS` |Time delay between topic deletion and topic creation attempts for topic recreate functionality. Default: 1
 |`TOPIC_RECREATE_MAXRETRIES`  |Number of attempts of topic creation after topic deletion for topic recreate functionality. Default: 15
 |`DYNAMIC_CONFIG_ENABLED`|Allow to change application config in runtime. Default: false.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaarolean%2Fkafka-ui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaarolean%2Fkafka-ui?ref=badge_large)
